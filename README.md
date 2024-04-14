@@ -21,6 +21,6 @@ This portfolio website is built using HTML, CSS, and JavaScript. It is based on 
 
 ## Credits
 
-- Template: [Dimension](https://html5up.net/dimension) by [HTML5 UP](https://html5up.net/)
+- Template: [Strata](https://html5up.net/strata) by [HTML5 UP](https://html5up.net/)
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Images: [Unsplash](https://unsplash.com/)
